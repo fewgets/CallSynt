@@ -152,6 +152,12 @@ CallSynt is a commercial product in development at **DevSynt**, so the source co
 
 ---
 
+## 📜 License
+
+© 2026 Usama Shahid · DevSynt. All rights reserved. This repository is a project showcase; the source code is private.
+
+---
+
 ## 🤝 Let's Work Together
 
 <div align="center">
